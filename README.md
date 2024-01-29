@@ -224,7 +224,8 @@ db.users.aggregate([
     },
 ])
 
-![image](https://github.com/NamagiriLakshmiMVL/Mongo-Aggregate/assets/144921147/a17c294e-26b5-460c-aa19-6ddc9075db22)
+![image](https://github.com/NamagiriLakshmiMVL/Mongo-Aggregate/assets/144921147/cdcc49d2-4325-45f2-9a59-840aee0badd6)
+
 
 //4.Find the number of problems solved by the user in codekata
 
